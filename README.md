@@ -4,13 +4,6 @@
 
 ---
 
-> ⚠️ **Important — Please Read Before Using**
->
-> This app processes **large geospatial satellite datasets** (MODIS, NASA NASADEM, ESA WorldCover) through Google Earth Engine.
-> After opening the app, please **wait up to 7 minutes** for the suitability analysis to complete and results to appear on the map. This is expected behaviour — the app is not frozen.
-
----
-
 ## 🔗 Live App
 
 👉 **[Open Solar Farm Suitability Tool](https://ee-hakhuzaifa.projects.earthengine.app/view/solar-farm-suitability-tool-for-sindh-and-balochistan)**
